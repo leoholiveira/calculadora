@@ -1,0 +1,3 @@
+([('calculadora',
+   '/Users/leonardonascimento/Projects/Pessoal/calculadora-python/dist/calculadora',
+   'EXECUTABLE')],)
